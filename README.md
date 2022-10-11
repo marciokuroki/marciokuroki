@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working at SERPRO
 - 🌱 I’m currently learning Python
+
+[![@marciokuroki's Holopin board](https://holopin.io/api/user/board?user=marciokuroki)](https://holopin.io/@marciokuroki)
+
 <div>
   <a href="https://github.com/marciokuroki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciokuroki&show_icons=true&theme=dark&count_private=true"/>
